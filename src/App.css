@@ -1,0 +1,57 @@
+.main {
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+#map {
+  margin-top: 16px;
+  border-radius: 8px;
+  width: 100%;
+  flex-grow: 2;
+}
+
+.schoolSearchForm {
+  display: flex;
+  height: 48px;
+  align-items: stretch;
+}
+
+.schoolSearchForm input {
+  width: 50%;
+  border-radius: 4px;
+  margin-right: 16px;
+  padding: 8px;
+  border-color: #ced4da;
+  font-size: 18px;
+}
+
+.schoolSearchForm button {
+  outline: none;
+  box-shadow: none;
+  background-color: #339af0;
+  border-color: #1c7ed6;
+  border-radius: 4px;
+  color: white;
+  padding: 8px;
+  box-shadow: none;
+  font-size: 18px;
+}
+
+.schoolSearchForm button:disabled {
+  background-color: #4dabf7;
+}
+
+.errorsWrapper {
+  margin: 16px 0 0;
+  padding: 16px;
+  background-color: #fff5f5;
+  color: #fa5252;
+  list-style-type: none;
+  border-radius: 4px;
+}
+
+.errorsWrapper li {
+  margin: 8px 0;
+}
