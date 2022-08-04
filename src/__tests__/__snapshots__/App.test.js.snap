@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render correctly - initial state 1`] = `
+<div
+  className="main"
+>
+  <h1>
+    College Search
+  </h1>
+  <SearchForm
+    handleSubmit={[Function]}
+    searching={false}
+  />
+  <Errors
+    errors={Array []}
+  />
+  <div
+    id="map"
+  />
+</div>
+`;

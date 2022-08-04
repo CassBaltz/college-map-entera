@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/college-map-entera/static/css/main.da198789.css",
-    "main.js": "/college-map-entera/static/js/main.7842f2d2.js",
+    "main.js": "/college-map-entera/static/js/main.dc815833.js",
     "static/js/787.7a087e9e.chunk.js": "/college-map-entera/static/js/787.7a087e9e.chunk.js",
     "index.html": "/college-map-entera/index.html",
     "main.da198789.css.map": "/college-map-entera/static/css/main.da198789.css.map",
-    "main.7842f2d2.js.map": "/college-map-entera/static/js/main.7842f2d2.js.map",
+    "main.dc815833.js.map": "/college-map-entera/static/js/main.dc815833.js.map",
     "787.7a087e9e.chunk.js.map": "/college-map-entera/static/js/787.7a087e9e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da198789.css",
-    "static/js/main.7842f2d2.js"
+    "static/js/main.dc815833.js"
   ]
 }

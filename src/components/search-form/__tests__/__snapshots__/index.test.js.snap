@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchForm should render correctly - not searching 1`] = `
+<form
+  className="schoolSearchForm"
+  name="school-search"
+  onSubmit={[MockFunction]}
+>
+  <input
+    name="school-name"
+    placeholder="Enter college name here"
+    type="text"
+  />
+  <button
+    disabled={false}
+    type="submit"
+  >
+    Search
+  </button>
+</form>
+`;
+
+exports[`SearchForm should render correctly - searching 1`] = `
+<form
+  className="schoolSearchForm"
+  name="school-search"
+  onSubmit={[MockFunction]}
+>
+  <input
+    name="school-name"
+    placeholder="Enter college name here"
+    type="text"
+  />
+  <button
+    disabled={true}
+    type="submit"
+  >
+    Search
+  </button>
+</form>
+`;

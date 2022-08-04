@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Errors should render correctly - errors exit 1`] = `
+<ul
+  className="errorsWrapper"
+>
+  <li>
+    Cannot perform that action
+  </li>
+</ul>
+`;

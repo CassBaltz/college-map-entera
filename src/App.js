@@ -3,7 +3,7 @@ import SearchForm from "./components/search-form";
 import Errors from "./components/errors";
 import { useSearchService } from "./utils/useSearchService";
 
-const generateHandleSubmit = (searchSchool, searching) => (e) => {
+export const generateHandleSubmit = (searchSchool, searching) => (e) => {
   e.preventDefault();
   if (searching) return;
 

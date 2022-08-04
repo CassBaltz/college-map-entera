@@ -99,4 +99,4 @@ const useSearchService = () => {
   };
 };
 
-export { useSearchService };
+export { useSearchService, buildSchool };
